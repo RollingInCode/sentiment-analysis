@@ -2,7 +2,8 @@
 <p>
 </p>
 
-> Preprocess your data using logisitic regression! Select a set of positive and negative tweets from your json files. You can even predict your own tweet. Give it a try.
+> Preprocess your data using logisitic regression! Select a set of positive and negative tweets from your json files. 
+> You can even predict your own tweet. Give it a try.
 
 ## Usage
 
